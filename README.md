@@ -1,2 +1,2 @@
 # SpuceGuides
-Spoofing Guides for Pokemon Go
+We offer multiple Guides for Android Spoofing.
