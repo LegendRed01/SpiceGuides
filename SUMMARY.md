@@ -14,4 +14,5 @@
 * [Useful/Important Links](links-faqs-error/useful-important-links.md)
 * [Cooldown, Strikes, Ban, Safety](links-faqs-error/cooldown-strikes-ban-safety.md)
 * [Error Fixes \(with Root\)](links-faqs-error/error-fixes-with-root.md)
+* [How to root any Android Phone](how-to-root-any-android-phone.md)
 
