@@ -31,6 +31,7 @@ description: >-
    Enable **Indirect Mocking** if you are on Android **5.1**
 
 * Go to FGL's `Gaming Security Settings` and tick the `Helper Banner`
+* Enable [developer options](https://lmgtfy.com/?q=enable+developer+options+android&s=) 
 * Go to `Developer Options` and set FGL Pro as the `Mock Location App`.  Enable `Mock Location` if you are on Android **5.1**
 * Go to Security Settings and disable device admins. \(Turn off `Find My Device`\)
 {% endtab %}
@@ -39,6 +40,7 @@ description: >-
 * Download GPS Joystick by Appninja from the link above_**\(NOT THE PLAY STORE!!\)**_
 * Open it and enable `privacy mode`. It will promp you for a new name and it will make a copy of the app with the new name you took.
 * Delete the original App
+* Enable [developer options](https://lmgtfy.com/?q=enable+developer+options+android&s=) 
 * Go to `Developer Options` and set the renamed app as the `Mock Location App`. **If** you are on Android **5.1** enable Mock Location
 * Go to Security Settings and disable device admins. \(Turn off `Find my Device`\)
 *  **If** you are on Android **5.1** Enable **Indirect Mocking** in the Settings of your renamed app 
@@ -46,6 +48,7 @@ description: >-
 
 {% tab title="Option \#3: Installing GPS Spice" %}
 * Download GPS Spice Mod
+* Enable [developer options](https://lmgtfy.com/?q=enable+developer+options+android&s=) 
 * Go to Developer Options and set `GPs Spice Mod` as the `Mock Location App`. **If** you are on Android **5.1** enable Mock Location
 * Go to Security Settings and disable device admins. \(Turn off `Find my Device`\)
 * **If** you are on Android **5.1** Enable **Indirect Mocking** in the Settings of GPS Spice
