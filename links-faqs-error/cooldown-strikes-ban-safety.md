@@ -104,7 +104,7 @@ Account Termination \(Permanently banned\)
 28. Encountering and catching certain Pokémon from Photobombs such as Smeargle and Party Hat Pikachu
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Cooldown Time" %}
 | Distance in Kilometers | Distance in Miles | Time |
 | :--- | :--- | :--- |
 | 1 km | 0.6 mi | 30 sec. |
