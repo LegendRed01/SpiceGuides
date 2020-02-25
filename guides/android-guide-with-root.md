@@ -1,4 +1,4 @@
-# Android Guide \(with Root\)
+# Android Guide 5.2+ \(with Root\)
 
 #### What you need to get started
 
@@ -10,7 +10,6 @@
 #### One of those Spoofing Apps :
 
 * [GPS Joystick by Appninja](http://gpsjoystick.theappninjas.com/faq/)
-* [FGL Pro](https://drive.google.com/file/d/18oZ1ECJe4F_w8J3EkeaR3v9FMPnLv_Q-/view)
 * [GPS Spice Mod](https://drive.google.com/file/d/1DVyQkLqkd9Oe-mKRJvz7SDBaC-E6FRJI/view)
 * [Pogo Enhancer\(Paid\)](https://maddev.eu/shop/)
 
@@ -50,7 +49,7 @@ Reboot the device, first reboot after Magisk has been flashed can take a couple 
 2. Go to **developer options** and set GPS Spice as mock location app
 3. Go to **security settings** and disable device admins \(Turn off Find my Device\)
 4. Open GPS Spice -&gt; settings and make shure that Indirect Mocking is disabled
-5. Change your phones GPS to **device only\(8 and below\)** or **disable Wifi and Cellular \(9 and above\)**
+5. 
 {% endtab %}
 
 {% tab title="GPS Joystick by Appninja" %}
@@ -59,12 +58,7 @@ Reboot the device, first reboot after Magisk has been flashed can take a couple 
 3. Go to developer options, and set the renamed app as the mock locations app
 4. Go to security settings and disable device admins \(Turn off Find my Device\)
 5. Open the renamed app -&gt; settings and make shure that Indirect Mocking is disabled
-6. Change your phones GPS to device only\(8 and below\) or disable Wifi and Cellular \(9 and above\)
-{% endtab %}
-
-{% tab title="FGL Pro" %}
-1. Donwload FLG Pro from the Appstore or the [No Ads Mod](https://bit.ly/2MoFcR0)
-2.  -- comming soon still testing
+6. For **Android 8.0.0 or below** change your GPS to device only  For **Android 9 or above** disable Wifi and Bluetooth scanning in the improve accuracy section in location settings
 {% endtab %}
 
 {% tab title="Pogo Enhancer" %}
@@ -80,7 +74,7 @@ Reboot the device, first reboot after Magisk has been flashed can take a couple 
 
 You can use this as a standalone app or use a spoofing app with this. It is important that you start your spoofing app **after** you started PogoEnhancer! This may change in the future as this app is still in development!  
   
-You need to repeat step 2. everytime Pekemon Go updates.
+You need to repeat step 2. everytime Pokemon Go updates.
 {% endtab %}
 {% endtabs %}
 

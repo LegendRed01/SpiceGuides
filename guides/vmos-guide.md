@@ -31,7 +31,7 @@
 
 **1. What you need to download onto your Android smartphone/tablet:**
 
-* \*\*\*\*[**VMOS**](https://oscdn.vmos.com//vmmaster/vmVersion/2019123007514345472.apk%20) \(319 MB\) **version** 2020011609370547986 **from VMOS website:** This is a direct download link. You press on it then a popup appears asking you to save it.
+* \*\*\*\*[**VMOS**](https://oscdn.vmos.com//vmmaster/vmVersion/2020011609370547986.apk) \(319 MB\) **version** 2020011609370547986 **from VMOS website:** This is a direct download link. You press on it then a popup appears asking you to save it.
 * \*\*\*\*[**Pokemon Go armeabi-v7a**](https://www.apkmirror.com/apk/niantic-inc/pokemon-go/) 
 * \*\*\*\*[**Lucky Patcher 8.6.3**](https://www.mediafire.com/file/ls1r5ysbx773kjg/Lucky-Patcher-Official-8.6.3.apk/file)\*\*\*\*
 * \*\*\*\*[**GPS Joystick**](http://gpsjoystick.theappninjas.com/download/gpsjoystick-unlocked-armeabi-v7a.apk)\*\*\*\*
