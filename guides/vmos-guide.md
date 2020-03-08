@@ -2,6 +2,14 @@
 
 ## 
 
+ 
+
+{% hint style="danger" %}
+**VMOS CURRENTLY DOESNT WORK 3/6/20**
+
+Once VMOS is working again this will be updated!
+{% endhint %}
+
 {% tabs %}
 {% tab title="VMOS Guide" %}
 **&gt;&gt;&gt;&gt;&gt; VMOS has a high chance for a Red Warning with a Strike &lt;&lt;&lt;&lt;&lt;**
