@@ -1,5 +1,9 @@
 # VMOS Android 8.1+\(without Root\)
 
+{% hint style="danger" %}
+VMOS is currently not working we wait for an Update!
+{% endhint %}
+
 {% tabs %}
 {% tab title="VMOS Guide" %}
 **&gt;&gt;&gt;&gt;&gt; VMOS has a high chance for a Red Warning with a Strike &lt;&lt;&lt;&lt;&lt;**
