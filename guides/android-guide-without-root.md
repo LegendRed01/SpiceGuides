@@ -57,7 +57,7 @@ description: >-
 
 ## Downgrading Google Play Services
 
-* _**IF your current version is below 12.6.85 Update to the latest version and then continue!\#**_
+* _**IF your current version is below 12.6.85 Update to the latest version and then continue!**_
 
 1. Before Downgrading Google Services, write down what version you have installed first. \(this info will be helpful when looking for your version\)  
    `Settings < Apps < Google Play Services <`   
@@ -69,6 +69,8 @@ description: >-
 
 2. Disable background data usage for Service
 3. Uninstall Google Play Services Updates
+   * Click on DISABLE to uninstall the Updates
+   * _IF_ your Play Services version is _**ABOVE**_ 12.6.85 after that you can't spoof
 4. Disable the storage permission for services
 5. Clear Data & Cache of Google Play Services in App Storage
 6. Download Google Play Services Update 12.6.85 matching your version
