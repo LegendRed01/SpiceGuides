@@ -3,8 +3,6 @@
 #### What you need to get started
 
 * A rooted Android Phone on 5.2 or higher
-* A Windows PC\(Or a Mac running Windows\)
-* [Smali Patcher from XDA](https://forum.xda-developers.com/apps/magisk/module-smali-patcher-0-7-t3680053)
 * Read this :[ Cooldown, Strikes, Ban, Safety](../links-faqs-error/cooldown-strikes-ban-safety.md)
 
 #### One of those Spoofing Apps :
@@ -27,14 +25,30 @@ Copy both files to your Phone and reboot into Recovery Mode \(TWRP\).
 Click on the Install button and flash the Magisk.zip file you downloaded from above.  
 Reboot the device, first reboot after Magisk has been flashed can take a couple of minutes so be patient.
 
-## 1. Smali Patcher
+## 1. Mock Location Fix
+
+{% tabs %}
+{% tab title="1. Smali Patcher" %}
+#### What you need to get started with Smali
+
+* A Windows PC\(Or a Mac running Windows\)
+* [Smali Patcher from XDA](https://forum.xda-developers.com/apps/magisk/module-smali-patcher-0-7-t3680053)
+
+
 
 1. Enable [developer options](https://lmgtfy.com/?q=enable+developer+options+android&s=) 
 2. Enable **USB debbuging**/**ADB Debugging**  ![](../.gitbook/assets/developeroptions.png)\*\*\*\*
 3. Open Smali Patcher with admin rights, and select only **Mock locations**. 
 4. Click **ADB PATCH**\(The process will take some minutes. Be patient\).
 5. After Smali Finished i should open the output folder where a new `.zip` file was created Copy that to your phone
-6. Open Magisk and install that `.zip`. Restart the Phone
+6. Open Magisk/Modules and install that `.zip`. Restart the Phone
+{% endtab %}
+
+{% tab title="2. TaiChi" %}
+Please chek out the[ Video Guide from AroMods](https://www.youtube.com/watch?v=9pwFf2RKIVg)  
+A written guide is currently beeing worked on
+{% endtab %}
+{% endtabs %}
 
 ## 2. Hide Root Access
 
