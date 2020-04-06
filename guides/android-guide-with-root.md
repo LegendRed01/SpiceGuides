@@ -57,6 +57,8 @@ Please chek out the[ Video Guide from AroMods](https://www.youtube.com/watch?v=9
 2. Click on `Downloads`  ![](../.gitbook/assets/1.download.png)
 3. Search TaiChi and install the module  ![](../.gitbook/assets/2.installtaichi.png) 
 4. Install TaiChi and Mock Location Module you downloaded above
+
+more comming soon
 {% endtab %}
 {% endtabs %}
 
