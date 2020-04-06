@@ -46,7 +46,17 @@ Reboot the device, first reboot after Magisk has been flashed can take a couple 
 
 {% tab title="2. TaiChi" %}
 Please chek out the[ Video Guide from AroMods](https://www.youtube.com/watch?v=9pwFf2RKIVg)  
-A written guide is currently beeing worked on
+
+
+#### What you need to get started with [TaiChi](https://taichi.cool/)
+
+* [TaiChi apk](https://development20.baidupan.com/040600bb/2020/04/05/d1dd834533d99bbba285275189794599.apk?st=dgCnBnP6xJLecYQ3k3C6Lg&e=1586107130&b=ByELagJrVjADPgU6BglUtgToWZ4F4gK3Vr1Yl1bmAzdVKQo7AixWYgJ6ACQGMwZuUWENMAJwUDMCfwFtXCsCaw_c_c&fi=20220232&up=)
+* [Mock Locations Module](https://dl-xda.xposed.info/modules/com.brandonnalls.mockmocklocations_v6_bfa37e.apk)
+
+1. Open Magisk Manager  
+2. Click on `Downloads`  ![](../.gitbook/assets/1.download.png)
+3. Search TaiChi and install the module  ![](../.gitbook/assets/2.installtaichi.png) 
+4. Install TaiChi and Mock Location Module you downloaded above
 {% endtab %}
 {% endtabs %}
 
