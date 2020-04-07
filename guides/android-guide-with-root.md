@@ -50,7 +50,7 @@ Please chek out the[ Video Guide from AroMods](https://www.youtube.com/watch?v=9
 
 #### What you need to get started with [TaiChi](https://taichi.cool/)
 
-* [TaiChi apk](https://development20.baidupan.com/040600bb/2020/04/05/d1dd834533d99bbba285275189794599.apk?st=dgCnBnP6xJLecYQ3k3C6Lg&e=1586107130&b=ByELagJrVjADPgU6BglUtgToWZ4F4gK3Vr1Yl1bmAzdVKQo7AixWYgJ6ACQGMwZuUWENMAJwUDMCfwFtXCsCaw_c_c&fi=20220232&up=)
+* [TaiChi apk](https://taichi.cool/download.html)
 * [Mock Locations Module](https://dl-xda.xposed.info/modules/com.brandonnalls.mockmocklocations_v6_bfa37e.apk)
 
 1. Open Magisk Manager  
