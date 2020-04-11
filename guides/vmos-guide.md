@@ -1,7 +1,7 @@
 # VMOS Android 8.1+\(without Root\)
 
 {% hint style="danger" %}
-VMOS is currently not working we wait for an Update!
+VMOS is currently not working.
 {% endhint %}
 
 {% tabs %}
