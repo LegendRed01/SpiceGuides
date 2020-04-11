@@ -50,7 +50,7 @@ Please chek out the[ Video Guide from AroMods](https://www.youtube.com/watch?v=9
 
 #### What you need to get started with [TaiChi](https://taichi.cool/)
 
-* [TaiChi apk](https://taichi.cool/download.html)
+* [TaiChi apk](https://docs.google.com/uc?export=download&id=184UCF7ToZ1C3nTedORo71nX1mEDspJD4)
 * [Mock Locations Module](https://dl-xda.xposed.info/modules/com.brandonnalls.mockmocklocations_v6_bfa37e.apk)
 
 1. Open Magisk Manager  
@@ -110,10 +110,14 @@ You need to repeat step 2. everytime Pokemon Go updates.
 
 ## Root - FAQ
 
-#### Pokemon still says 'Device is incompatible'?
+### Pokemon still says 'Device is incompatible'?
 
 Open your Magisk Manager and navigate to Magisk hide.  
 Enable System Apps and hide `Google Play` Service and `Google Play Store` ![](../.gitbook/assets/hidegapps.png) 
+
+### How do i fix the CTSProfile?
+
+Download [this module](https://docs.google.com/uc?export=download&id=1ngsqmKaAYJBaNHVjq8xunf2j-HDJAuDb) and install it in magisk.
 
   
 
