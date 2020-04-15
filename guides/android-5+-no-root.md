@@ -1,7 +1,5 @@
 # Android 5+ \(No Root\)
 
-[https://www.pgsharp.com/](https://www.pgsharp.com/)
-
 {% hint style="danger" %}
 PGSharp is a new way to spoof on Android, we currently cant say if it is save or not so please use an alt account! This App is still in Beta be carefull.  
 And please send feedback to [https://www.pgsharp.com/feedback/](https://www.pgsharp.com/feedback/)
