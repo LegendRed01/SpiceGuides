@@ -5,6 +5,7 @@
 ## Guides
 
 * [Android Guide \(without Root\)](guides/android-guide-without-root.md)
+* [Android 5+ \(No Root\)](guides/android-5+-no-root.md)
 * [Android Guide 5.2+ \(with Root\)](guides/android-guide-with-root.md)
 * [VMOS Android 8.1+\(without Root\)](guides/vmos-guide.md)
 * [Others](guides/others.md)
