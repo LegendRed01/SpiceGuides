@@ -48,6 +48,11 @@ Reboot the device, first reboot after Magisk has been flashed can take a couple 
 Please chek out the[ Video Guide from AroMods](https://www.youtube.com/watch?v=9pwFf2RKIVg)  
 
 
+{% hint style="danger" %}
+Taichi is a closed-source software framework!  
+Be cautious!
+{% endhint %}
+
 #### What you need to get started with [TaiChi](https://taichi.cool/)
 
 * [TaiChi apk](https://docs.google.com/uc?export=download&id=184UCF7ToZ1C3nTedORo71nX1mEDspJD4)
@@ -59,6 +64,10 @@ Please chek out the[ Video Guide from AroMods](https://www.youtube.com/watch?v=9
 4. Install TaiChi and Mock Location Module you downloaded above
 
 more comming soon
+{% endtab %}
+
+{% tab title="3. EdXposed" %}
+-- Comming soon
 {% endtab %}
 {% endtabs %}
 
