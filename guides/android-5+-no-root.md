@@ -33,16 +33,17 @@ And please send feedback to [https://www.pgsharp.com/feedback/](https://www.pgsh
 
 ###  **Instructions**
 
+{% hint style="danger" %}
+_**You need to get a license key from**_ [_**PGSharp**_](https://www.pgsharp.com/manage/cart.php?gid=1) _**without a license key you cant use PGSharp!**_
+{% endhint %}
+
 1. Create [PTC \(Pokemon Trainer Club\)](https://club.pokemon.com/)
 2. Uninstall the official Pogo app \(Google Play Store version\)
    * If you do not uninstall the pogo app from the Google Play Store, the modified app will fail to install
 3.  Go to [PGSharp.com](https://www.pgsharp.com/) and download the APK.
 4. Allow unknown apps to install
-5. Start playing
-
-{% hint style="danger" %}
-_**THEY ARE HAVING SERVER PROBLEMS, SO YOU CANNOT PLAY THE GAME. You must wait patiently for them to fix the problems.**_
-{% endhint %}
+5. Enter your license key
+6. Start playing
 
 ### 
 
