@@ -20,6 +20,7 @@ And please send feedback to [https://www.pgsharp.com/feedback/](https://www.pgsh
 * Use a joystick to move around
 * Change your walking speed
 * Use the map to teleport
+* Use coordinates to go to a specific location
 * Use autowalk in a generated GPX route through pokestops \(not clear\)
   * Enter the number of Pokestops you want to autowalk through.
 * The modified app will save your last location
@@ -27,7 +28,6 @@ And please send feedback to [https://www.pgsharp.com/feedback/](https://www.pgsh
 ### **What does not work?**
 
 * Gotcha fails to connect
-* No way to enter coordinates to go to a specific location
 * No import for GPX Route
 * No Google and Facebook log in
 
@@ -39,19 +39,24 @@ _**You need to get a license key from**_ [_**PGSharp**_](https://www.pgsharp.com
 
 1. Create [PTC \(Pokemon Trainer Club\)](https://club.pokemon.com/)
 2. Uninstall the official Pogo app \(Google Play Store version\)
-   * If you do not uninstall the pogo app from the Google Play Store, the modified app will fail to install
+   * If you do not uninstall the Pogo app from the Google Play Store, the modified app will fail to install
 3.  Go to [PGSharp.com](https://www.pgsharp.com/) and download the APK.
 4. Allow unknown apps to install
 5. Enter your license key
 6. Start playing
 
-### 
+### PGSharp License Keys
+
+PGSharp offers two License Keys :
+
+* \*\*\*\*[**Free 14 Day Trial Key**](https://manage.pgsharp.com/cart.php?a=add&pid=2)\*\*\*\*
+* \*\*\*\*[**Standard Edition** $5/Month 2 Devices](https://manage.pgsharp.com/cart.php?a=add&pid=1)
 
 ###  **Do you still want to have a normal Pokemon Go app?**
 
 [Samsung Store Pokemon Go APK](https://www.apkmirror.com/apk/niantic-inc/pokemon-go-samsung-galaxy-apps-version/)
 
-This is an official unmodified pogo app that is from Samsung's Galaxy App Store. This will allow you to use two pogo apps onto your device: New account for PGSharp app and main account for pogo app from \(Galaxy App store\). This APK link will work on non-Samsung devices as long as your device can use the new arm64-v8a type.  
+This is an official unmodified Pogo app that is from Samsung's Galaxy App Store. This will allow you to use two Pogo apps onto your device: New account for PGSharp app and main account for pogo app from \(Galaxy App store\). The APK  will work on non-Samsung devices as long as your device can use the new arm64-v8a type.  
 
 
 ### **Frequently Asked Questions:**
