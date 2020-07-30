@@ -129,10 +129,10 @@ Account Termination \(Permanently banned\)
 
 1. **Play Legit**
 2. Rooted Android device \(Smali Patcher or Systemized method; not using VMOS\)
-3. iSpoofer with a Developer Certificate\(not the official download\)
+3. iTools Mobile
 4. No Root Android by downgrading Google Play Services
-5. iSpoofer on iPhone or iPad from official website
-6. iTools mobile plug-in device + 3rd party iOS app stores + cracked iSpoofer + iSpoofer alternatives
+5. iSpoofer,iPogo 
+6.  3rd party iOS app stores + cracked iSpoofer + iSpoofer alternatives
 7. iSpoofer or iTools on a computer, VMOS, DeFit or any type of fake step count
 8. **Android Emulators like Nox, Bluestacks**
 
